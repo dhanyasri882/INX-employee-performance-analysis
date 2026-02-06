@@ -1,7 +1,6 @@
 # INX-employee-performance-analysis
 End-to-End Data Science Project using Machine Learning to analyze, understand, and predict employee performance.
 
----
 
 ## 📌 Project Overview
 
@@ -12,8 +11,6 @@ The management wanted a **data-driven solution** to understand the causes of per
 
 This project uses **Data Science and Machine Learning** to identify key performance drivers, build prediction models, and provide HR recommendations.
 
----
-
 ## 🎯 Project Objectives
 
 The main objectives of this project are:
@@ -23,7 +20,6 @@ The main objectives of this project are:
 • Build a machine learning model to predict performance  
 • Provide business recommendations to improve performance  
 
----
 
 ## 📊 Dataset Information
 
@@ -35,7 +31,6 @@ The dataset contains **1200 employee records** and **28 features**, including:
 - Workplace satisfaction and engagement metrics
 - Employee performance ratings (Target Variable)
 
----
 
 ## 🛠 Tools & Technologies Used
 
@@ -44,8 +39,6 @@ The dataset contains **1200 employee records** and **28 features**, including:
 - Matplotlib & Seaborn  
 - Scikit-learn  
 - Jupyter Notebook  
-
----
 
 ## 📂 Project Structure
 
@@ -67,7 +60,6 @@ INX-Employee-Performance-Analysis
 └── references/
 └── Project Summary Document
 
----
 
 ## 🔍 Exploratory Data Analysis Insights
 
@@ -76,8 +68,6 @@ Key observations from data exploration:
 • Employee performance varies across departments  
 • Most employees fall under the average performance category  
 • Engagement and workplace satisfaction strongly influence performance  
-
----
 
 ## ⭐ Top 3 Factors Affecting Employee Performance
 
@@ -91,8 +81,6 @@ Using **Random Forest Feature Importance**, the most influential factors were:
 
 3️⃣ **Years Since Last Promotion**  
    Long gaps in promotions reduce motivation and performance.
-
----
 
 ## 🤖 Machine Learning Models Used
 
@@ -110,14 +98,10 @@ Reasons:
 - Handles complex feature relationships  
 - Provides feature importance for interpretation  
 
----
-
 ## 📈 Model Outcome
 
 The trained model can predict the **performance rating of new employees**  
 based on their attributes, helping HR make better hiring decisions.
-
----
 
 ## 💡 Business Recommendations
 
@@ -133,8 +117,6 @@ Based on analysis and model insights:
 8. Implement performance recognition systems  
 9. Use predictive analytics in hiring decisions  
 10. Focus on employee retention strategies  
-
----
 
 ## 🚀 Business Impact
 
